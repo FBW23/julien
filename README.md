@@ -42,3 +42,6 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
+www.google.de
+
+<www.google.de>
