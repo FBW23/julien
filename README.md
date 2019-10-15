@@ -71,6 +71,7 @@ internal links
 | - | - | - | - |
 | Nickname | Al | Spongebob | Johnson |
 | Pone numbers | 129843 | 9829724 | 193738 |
+| Home town | Argentina | Brasil | Canada |
 
 
 
