@@ -69,9 +69,10 @@ internal links
 
 | Real name | Alice | Bob | Carl |
 | - | - | - | - |
-| Nickname | Al | Spongebob | Johnson |
-| Pone numbers | 129843 | 9829724 | 193738 |
-| Home town | Argentina | Brasil | Canada |
+| Nickname | Al | Spongebob | Johnson 
+| Pone numbers | 129843 | 9829724 | 193738 
+| Home town | Argentina | Brasil | Canada 
+| Flags | :argentina:| :brazil: | :canada: 
 
 
 
@@ -81,4 +82,5 @@ internal links
      |+  .'|
      | _ _ |
      |_____/
+
 
