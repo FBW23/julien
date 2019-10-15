@@ -49,4 +49,8 @@ internal links
 
 [Julia](../../../julia)
 
-[new anchor](#anchor-name)
+# Anchors in markdown
+
+[link to an anchor](#anchors-in-markdown)
+
+![image](maxresdefault.jpg "cat on a carpet")
