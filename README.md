@@ -64,6 +64,7 @@ internal links
 - [x] buy a cat
 - [x] feed im
 - [ ] make him fly
+- [ ] fly with him
 
 # table
 
