@@ -53,5 +53,8 @@ internal links
 
 [link to an anchor](#anchors-in-markdown)
 
-![image](Images/maxresdefault.jpg "cat on a carpet")
+![image](images/maxresdefault.jpg "cat on a carpet")
 
+:zzz:
+
+:middle_finger:
