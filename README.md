@@ -53,4 +53,5 @@ internal links
 
 [link to an anchor](#anchors-in-markdown)
 
-![image](maxresdefault.jpg "cat on a carpet")
+![image](Images/maxresdefault.jpg "cat on a carpet")
+
