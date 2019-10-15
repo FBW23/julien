@@ -64,3 +64,20 @@ internal links
 - [x] buy a cat
 - [x] feed im
 - [ ] make him fly
+
+# table
+
+| Real name | Alice | Bob | Carl |
+| - | - | - | - |
+| Nickname | Al | Spongebob | Johnson |
+
+
+
+      _____
+     |.---.|
+     ||___||
+     |+  .'|
+     | _ _ |
+     |_____/
+
+
