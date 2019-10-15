@@ -58,3 +58,9 @@ internal links
 :zzz:
 
 :middle_finger:
+
+# checkboxes
+
+- [x] buy a cat
+- [x] feed im
+- [ ] make him fly
